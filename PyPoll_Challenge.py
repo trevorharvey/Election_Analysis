@@ -136,5 +136,5 @@ with open(file_to_save, "w") as txt_file:
         f"---------------------------\n")
     print(hvc_county_summary)
     # Save the winning candidate's results to the text file.
-    txt_file.write(winning_candidate_summary) 
+    txt_file.write(hvc_county_summary) 
 
