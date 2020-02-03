@@ -28,5 +28,21 @@ The analysis of the election shows that:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+The Colorado Board of Elections has requested information regarding voter turnout in this particular congressional district.
+
+1. Compile a list of counties in the congressional district.
+2. Calculate the total number of voter turnout in each county.
+3. Calculate the percentage of voters each county has.
+4. Determine which county had the highest voter turnout
 
 ## Challenge Summary
+The analysis shows that:
+- The counties are:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- Each county's voter turnout were:
+    - Jefferson: 38,855 (10.5% of total voters)
+    - Denver: 306,055 (82.8% of total voters)
+    - Arapahoe: 24,801 (6.7% of total voters)
+Off the 3 counties, Denver had the highest voter turnout.
